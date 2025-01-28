@@ -6,6 +6,6 @@
 
 **STrIPS_PF_2Sided**: PF simulation of bijel formation via STrIPS with two open boundaries (top and bottom) for solvent diffusion. 
 
-**PoreSizeAnalysis_SigmaC**: Script for the pore size analysis of bijel morphologies with different values of the critical IFT. [Associated Dataset](Data/Simulation/SigmaC) 
+**PoreSizeAnalysis_SigmaC**: Script for the pore size analysis of bijel morphologies with different values of the critical IFT. [Associated Dataset](../Data/Simulation/SigmaC) 
 
-**PoreSizeAnalysis_ExperimentalVsSimulation**: Script for the pore size analysis of both experimental (confocal) and simulated bijel morphologies. [Associated Dataset (Experiment) ](Data/Experiment) & [Associated Dataset (Simulation)](Data/Simulation/ExperimentVsSimulation)
+**PoreSizeAnalysis_ExperimentalVsSimulation**: Script for the pore size analysis of both experimental (confocal) and simulated bijel morphologies. [Associated Dataset (Experiment) ](../Data/Experiment) & [Associated Dataset (Simulation)](../Data/Simulation/ExperimentVsSimulation)
